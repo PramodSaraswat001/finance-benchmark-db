@@ -1,0 +1,11 @@
+ex_id,ex_name,ex_ad_id,ex_open,ex_close
+NYSE,New York Stock Exchange,1,930,1600
+NASDAQ,Nasdaq Global Select Market,2,930,1600
+LSE,London Stock Exchange,3,800,1630
+NSE,National Stock Exchange of India,4,915,1530
+JPX,Tokyo Stock Exchange,5,900,1500
+XETRA,Frankfurt Stock Exchange,6,900,1730
+HKEX,Hong Kong Stock Exchange,7,930,1600
+SIX,SIX Swiss Exchange,8,900,1730
+ASX,Australian Securities Exchange,9,1000,1600
+TSX,Toronto Stock Exchange,10,930,1600

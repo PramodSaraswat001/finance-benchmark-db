@@ -1,0 +1,13 @@
+sc_id,sc_name
+TEC,Technology
+FIN,Financials
+HLT,Healthcare
+ENG,Energy
+IND,Industrials
+CNS,Consumer Discretionary
+STP,Consumer Staples
+COM,Communication Services
+MAT,Materials
+UTL,Utilities
+REA,Real Estate
+GOV,Government/Municipal

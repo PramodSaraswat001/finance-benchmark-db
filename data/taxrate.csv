@@ -1,0 +1,21 @@
+tx_id,tx_name,tx_rate
+TX00,Tax Tier 1,0.2439
+TX01,Tax Tier 2,0.2651
+TX02,Tax Tier 3,0.1253
+TX03,Tax Tier 4,0.1587
+TX04,Tax Tier 5,0.1942
+TX05,Tax Tier 6,0.1959
+TX06,Tax Tier 7,0.3182
+TX07,Tax Tier 8,0.1813
+TX08,Tax Tier 9,0.1379
+TX09,Tax Tier 10,0.2077
+TX10,Tax Tier 11,0.0802
+TX11,Tax Tier 12,0.2661
+TX12,Tax Tier 13,0.0969
+TX13,Tax Tier 14,0.3416
+TX14,Tax Tier 15,0.3102
+TX15,Tax Tier 16,0.2182
+TX16,Tax Tier 17,0.2382
+TX17,Tax Tier 18,0.1004
+TX18,Tax Tier 19,0.164
+TX19,Tax Tier 20,0.0812
